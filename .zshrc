@@ -50,7 +50,7 @@ ZSH_THEME="daveverwer"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git mvn python scala docker sublime redis-cli brew)
+plugins=(git mvn python scala docker sublime redis-cli brew zsh-syntax-highlighting)
 
 # User configuration
 
